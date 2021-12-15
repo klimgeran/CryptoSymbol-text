@@ -5,5 +5,7 @@ This text portrait was created using ASCII graphics.
 
 You managed to decipher the message that was encoded in this photo.
 
-https://siasky.net/AABqS5z8IRJBdmSG5LouLkGxD55Iut55Jp4VWCRRNy_uXw (Test)
+https://siasky.net/AABs9p7HphIyQAUEV7FLMcGCijmU5_i6yUk0H6OydCjTFQ (Test)
+
+Password for start.pde: nemtest1
 
