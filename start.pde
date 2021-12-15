@@ -9,7 +9,7 @@ PImage imageCrypt, imageRef;
 int imgWidth;
 
 void setup() {
-  size(400, 205);
+  size(700, 400);
 
   // GUI
   cp5 = new ControlP5(this);
@@ -29,7 +29,7 @@ void setup() {
 
   debugArea = cp5.addTextarea("decryptText")
     .setPosition(120, 10)
-    .setSize(340, 285)
+    .setSize(575, 385)
     .setFont(createFont("arial", 17))
     .setLineHeight(19)
     .setColor(color(0))
