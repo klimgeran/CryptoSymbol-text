@@ -1,4 +1,4 @@
-# Crypto-Symbol-photo-text
+# CryptoSymbol-text
 Program for encoding photos into text + decryption.
 
 1. start.pde 
